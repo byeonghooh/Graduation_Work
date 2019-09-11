@@ -1,0 +1,8 @@
+form#mypageForm {
+	
+	margin : 0 auto;
+	margin-top : 30px;
+	border:solid 3px #6b9236;
+	padding : 20px;
+	width : 800px;
+}

@@ -1,0 +1,15 @@
+form#LoginForm {
+	text-align: center; 
+	margin : 50px;
+}
+button#login {
+	background-color : #82ae45;
+}
+
+input#login, button#login {
+
+
+	height: 55px;
+	width : 300px;
+
+} 

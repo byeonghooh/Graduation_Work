@@ -1,0 +1,31 @@
+div#food {
+      width: 400px;
+      height: 340px;
+      border: 1px solid black;
+      padding: 20px
+    }
+
+    svg {
+      width: 330px;
+      height: 250px;
+    }
+    .pie {
+      fill: orange;
+      stroke: white;
+    }
+    .total {
+      font-size: 10pt;
+      text-anchor: middle;
+    }
+    .pieNum {
+      font-size: 10pt;
+      color: white;
+      text-anchor: middle;
+    }
+    canvas {
+      width: 15px;
+      height: 15px;
+      margin-left: 5px;
+      margin-right: 5px;
+      margin-top: 5px;
+    } 

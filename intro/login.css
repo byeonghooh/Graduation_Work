@@ -1,0 +1,37 @@
+form {
+	margin: 20px;
+}
+
+    div#signup{
+      margin: 7px;
+      text-align: center;
+      font-size: 14px;
+    }
+    
+    div#signup a{
+      margin: 10px;
+      text-align: center;
+      color:#004d79;
+    }
+
+    input {
+      height: 40px;
+      width: 290px;
+      border: none;
+      padding: 10px;
+      font-size: 17px;
+      display: flex;
+      flex-direction: row;
+      margin: 10px;
+      background-color: #f3f3f3dd;
+
+    }
+
+    button {
+      height: 60px;
+      width: 310px;
+      background-color: #004d79;
+      color: white;
+      margin: 10px;
+      font-size: 17px;
+    }
